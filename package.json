@@ -1,0 +1,26 @@
+{
+  "name": "learn-react",
+  "version": "0.0.1",
+  "description": "App to learn react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilanaenderman/learn-react.git"
+  },
+  "author": "Ilana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilanaenderman/learn-react/issues"
+  },
+  "homepage": "https://github.com/ilanaenderman/learn-react#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
